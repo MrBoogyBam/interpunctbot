@@ -347,7 +347,7 @@ levels:
               goto: chimneyplatform
               chance: 0.9
             - msg: "*You pull yourself onto the rock with great force*"
-              goto: chimneyrock
+              goto: chimneygrider
               chance: 0.4
         right:
             - "*You run into a wall*"
